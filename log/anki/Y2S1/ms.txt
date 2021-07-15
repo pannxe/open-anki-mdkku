@@ -1,4 +1,13 @@
-musculoskeletal system
+Musculoskeletal system
+
+16/7/2021 :
+	+ Arthrology
+	+ Osteology
+	+ Vertebral Column
+	
+	+ Add more images
+
+	* Fix typos
 
 12/07/2021 :
-	- Add L1 : Anatomical vocabulary
+	+ Anatomical vocabulary
